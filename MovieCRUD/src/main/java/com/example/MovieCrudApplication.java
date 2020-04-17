@@ -10,4 +10,5 @@ public class MovieCrudApplication {
 		SpringApplication.run(MovieCrudApplication.class, args);
 	}
 //moviecrud operationssssssss
+	//shows, theatres, movies crud
 }
